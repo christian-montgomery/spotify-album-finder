@@ -115,6 +115,7 @@ function App() {
                       src={album.images[0].url}
                       style={{borderRadius: '4%',}}
                     />
+                    
                         <Card.Body>
                           <Card.Title
                             style={{
